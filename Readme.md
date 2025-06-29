@@ -78,8 +78,7 @@ I'm following the [Striver's SDE Sheet](https://takeuforward.org/interviews/stri
 
 ## 🧵 Follow My Journey
 
-📚 [Medium Blog](https://medium.com/@siddsr0015) – I’ll write about key patterns and learnings  
-🧠 [LinkedIn](https://linkedin.com/in/siddharth1599) – Posting progress weekly  
+📚 [Medium Blog](https://medium.com/@siddsr0015) – I’ll write about key patterns and learnings   
 💻 [Portfolio](https://sidddev15.github.io/portfolio-frontend/)  
 
 ---
